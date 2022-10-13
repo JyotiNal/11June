@@ -68,7 +68,6 @@ public class ProfilePage {
 	
 	public void WhoreOnProfile() {
 		Actions act = new Actions(driver);
-		
 		act.moveToElement(ProfileName).perform();;
 	}
 	
