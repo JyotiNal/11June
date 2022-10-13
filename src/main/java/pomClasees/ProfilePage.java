@@ -121,8 +121,6 @@ public class ProfilePage {
 	
 	public int getAddressCount(){
 		return AddressCount.size();
-		
-		
-	}
+		}
 	
 }
